@@ -1,7 +1,6 @@
-
 number_of_teeth = 60;
 toothed_part_length = 6;
-additional_tooth_width=0.0;
+additional_tooth_width=0.1;
 additional_tooth_depth=0.0;
 
 
